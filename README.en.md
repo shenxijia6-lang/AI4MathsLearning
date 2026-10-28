@@ -215,3 +215,7 @@ Then run the install commands for your platform again (or rebuild and re-upload 
 - cases where the AI, even with this skill, **still** dumps definition–theorem–proof on you (please include your question and its answer);
 - examples you thought were explained especially well;
 - better calibration examples (short ones where you can see at a glance how the motivation forces the definition).
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
